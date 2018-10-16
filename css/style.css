@@ -1,0 +1,7 @@
+body {
+  background: #CCCA8F;
+  heigth: auto;
+}
+body .titre {
+  font-family: "IBM Plex Sans Condensed", sans-serif;
+}
